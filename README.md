@@ -1,2 +1,2 @@
 # configs
-Configuration files
+Configuration files of worth or note.
